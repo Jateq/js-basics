@@ -1,0 +1,61 @@
+body, p { margin: 0; padding: 0; }
+
+body { padding: 100px; background: #312e2e; }
+
+#content {
+	margin: 100px auto 20px auto;
+	border: 10px solid #6b6b6b;
+	width: 480px;
+	height: 480px;
+	position: relative;
+}
+
+#content img {
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+
+p { text-align: center; }
+
+/********** Link Styles ***********/
+
+#links {
+	width: 420px;
+	display: flex;
+	margin: auto;
+}
+
+#links a {
+	display: block;
+	flex: 1;
+	border-width: 10px;
+	background: #ffffff;
+	height: 50px;
+	line-height: 50px;
+	color: #000000;
+	text-decoration: none;
+	font-family: Arial;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+#links a:hover {
+	background:#000000;
+	color: #fff;
+}
+
+/************ Animation Styles ************/
+
+.fadeinimg{
+	animation: fadein 0.5s;
+}
+
+@keyframes fadein {
+	from{
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+}
