@@ -12,7 +12,8 @@
  * @return {number[]}
  */
 var map = function(arr, fn) {
-  var mappedArray = [];
+  // var mappedArray = [];
+  const mappedArray = new Array(arr.length);
   for (var i = 0; i < arr.length; i++) {
     mappedArray.push(fn(arr[i], i));
   }
