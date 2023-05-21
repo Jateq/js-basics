@@ -14,3 +14,5 @@ Working on projects and solving leetcode javascript tasks
 ## Third project is vacation wish list
 
 ![wishlist](https://github.com/Jateq/js-basics/assets/90255719/57aafe54-aa77-4c3b-884f-6ce15d16dc42)
+
+`yes i like clouds a lot`
