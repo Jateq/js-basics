@@ -1,8 +1,9 @@
 # Learning JavaScript
 
-In the same time its a good practice with css and html
+Working on projects and solving leetcode javascript tasks
 
 ## First project is simple slideshow
+
 ![image](https://github.com/Jateq/js-basics/assets/90255719/020a0221-439a-4ed7-b3d3-53d6f753dd6c)
 
 ## Second project is distance converter
