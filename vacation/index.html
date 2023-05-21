@@ -8,12 +8,50 @@
 
     <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" rel="stylesheet">
 
-	<!-- Our CSS -->
+    <!-- Our CSS -->
     <link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
+    <header>
+        <h1 class = "origin">Vacation Destination With List</h1>
+        <p>Found exciting place to visit on your vacation?
+            Use form below to add them to your wish list
+        </p>
+    </header>
 
+    <main>
+        <form id = "destination_details_form">
+            <label for= "name">Destination Name</label>
+            <input type = "text" id = "name" placeholder="Provide a name of destination" required > 
+
+            <label for = "location">Location</label>
+            <input type = "text" id = "location" placeholder="Where it is located" required>
+
+            <label for = "photo">Photo</label>
+            <input type = "url" id = "photo" placeholder="Provide a URL for a photo">
+
+            <label for = "description">Description</label>
+            <textarea id = "description" placeholder="Describe it"></textarea>
+            <button type = "submit" >Add to List</button>
+        </form>
+
+        <article>
+            <p id = "title">Enter Destination Details</p>
+            </div id = "destinations_container">
+                <div class = "card">
+                    <img src="images/vacation.png">
+                    <div class="card-body">
+                        <p>Destination Name</p>
+                        <p>Destination Location</p>
+                        <p class="card-text">Description</p>
+                        <button>Remove</button>
+                    </div>
+                </div>
+            </div>
+
+        </article>
+    </main>
     <!-- Our JavaScript -->
     <script src="script.js"></script>
 </body>
