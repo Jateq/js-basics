@@ -9,3 +9,7 @@ In the same time its a good practice with css and html
 
 
 ![image2](https://github.com/Jateq/js-basics/assets/90255719/a52033c4-c81a-4462-8e07-d86f374ea3cf)
+
+## Third project is vacation wish list
+
+![wishlist](https://github.com/Jateq/js-basics/assets/90255719/57aafe54-aa77-4c3b-884f-6ce15d16dc42)
