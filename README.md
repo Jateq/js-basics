@@ -16,4 +16,4 @@ Working on projects and solving leetcode javascript tasks
 
 ![wishlist](https://github.com/Jateq/js-basics/assets/90255719/bc21af33-91e1-4eed-a5e2-16ffd50b2a2f)
 
-## ----------------yes i like clouds a lot-----------------
+## `----------------yes i like clouds a lot-----------------`
