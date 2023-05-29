@@ -2,7 +2,8 @@
 // Medium
 
 /**
- * Write a function that accepts two deeply nested objects or arrays obj1 and obj2 and returns a new object representing their differences.
+ * Write a function that accepts two deeply nested objects or arrays obj1 and obj2
+ * and returns a new object representing their differences.
  *
  * @param {object} obj1
  * @param {object} obj2
